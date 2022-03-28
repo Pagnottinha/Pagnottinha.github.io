@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+    font-family: Cambria, 'Times New Roman';
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 35px;
+}
+
+#licoes
+{
+    position: relative;
+    width: 200px;
+    left: 25%;
+    top: 41px;
+}
+
+#blog
+{
+    position: relative;
+    width: 200px;
+    left: 60%;
+}

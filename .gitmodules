@@ -1,3 +1,6 @@
 [submodule "LicoesHTML"]
 	path = LicoesHTML
 	url = https://github.com/Pagnottinha/LicoesHTML
+[submodule "BlogPessoal"]
+	path = BlogPessoal
+	url = git@github.com:Pagnottinha/Blog.git
